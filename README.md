@@ -21,10 +21,12 @@ Hey, I'm Noah! I'm currently a student at CSULB studying Computer Science. I lov
 
 
 ### Socials
-
 <p align="left">
   <a href="https://discord.com/users/boat.py" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="Discord" width="32" height="32" />
+  </a>
+  <a href="https://www.github.com/boatnoah" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="32" height="32" />
   </a>
   <a href="https://www.linkedin.com/in/noah-kim-cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" height="32" />
