@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Noah
 ============================================================================================================================
 
-Computer Science Student @ CSULB
+Comp Sci @ CSULB
 --------------------------------
 
 Hey, I'm Noah! I'm currently a student at CSULB studying Computer Science. I love to build, teach, and learn anything related to tech. For the past year, I have been working as a coding coach teaching kids aged 8-12 on the basics of programming. As a coach, I focus on developing projects that I have made into small coding lessons and ensuring each child progresses in their programming. As someone who is constantly looking to expand my skills and knowledge, I'm always open to new opportunities to grow and learn in the tech sphere.
@@ -24,9 +24,6 @@ Hey, I'm Noah! I'm currently a student at CSULB studying Computer Science. I lov
 <p align="left">
   <a href="https://discord.com/users/boat.py" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="Discord" width="32" height="32" />
-  </a>
-  <a href="https://www.github.com/boatnoah" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="32" height="32" />
   </a>
   <a href="https://www.linkedin.com/in/noah-kim-cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" height="32" />
