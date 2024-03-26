@@ -9,7 +9,7 @@ Hey, I'm Noah! I'm currently a student at CSULB studying Computer Science. I lov
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [My Portfolio](http://boatnoah.com/)
 * ✉️  You can contact me at [noahkimCS@gmail.com](mailto:noahkimCS@gmail.com)
-* 🚀  I'm currently working on [Pathfinding Visualizer](http://boatnoah.github.io/Pathfinding-Project/)
+* 🚀  I'm currently enrolled in Web 102 CodePath
 * 🧠  I'm learning Full-Stack Development
 
 ### Skills
