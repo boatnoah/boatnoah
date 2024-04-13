@@ -5,7 +5,7 @@ Hey, I'm Noah! ![](https://user-images.githubusercontent.com/18350557/176309783-
 Hey, I'm Noah! I'm currently a student at CSULB studying Computer Science. I love to build, teach, and learn anything related to tech. For the past year, I have been working as a coding coach teaching kids aged 8-12 on the basics of programming. As a coach, I focus on developing projects that I have made into small coding lessons and ensuring each child progresses in their programming. As someone who is constantly looking to expand my skills and knowledge, I'm always open to new opportunities to grow and learn in the tech sphere.
 
 * 🌍  I'm based in California
-* 🖥️  See my terminal portfolio at [My Portfolio](http://boatnoah.com/)
+* 🖥️  See my terminal portfolio at [boatnoah.com](http://boatnoah.com/)
 * ✉️  You can contact me at [noahkimCS@gmail.com](mailto:noahkimCS@gmail.com)
 * 🚀  I'm currently enrolled in CodePath WEB102
 * 🧠  I'm learning Full-Stack Development
