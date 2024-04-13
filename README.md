@@ -1,8 +1,6 @@
 Hey, I'm Noah! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================================================================================================
 
-Comp Sci @ CSULB
---------------------------------
 
 Hey, I'm Noah! I'm currently a student at CSULB studying Computer Science. I love to build, teach, and learn anything related to tech. For the past year, I have been working as a coding coach teaching kids aged 8-12 on the basics of programming. As a coach, I focus on developing projects that I have made into small coding lessons and ensuring each child progresses in their programming. As someone who is constantly looking to expand my skills and knowledge, I'm always open to new opportunities to grow and learn in the tech sphere.
 
