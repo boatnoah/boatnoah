@@ -1,32 +1,34 @@
 Hey, I'm Noah! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================================================================================================
+```python
+  class Noah:
+    def __init__(self):
+      self.age = 20
+      self.based_in = "California"
+      self.hobbies = ["Coding!", "Video Game", "Table Tennis"]
+```
 
+I'm currently a student at CSULB studying Computer Science with ambitions of becoming a Full-Stack Developer. I enjoy coding, teaching others to code, and learning more about it! So for the past year, I have been working as a Code Coach teaching kids aged 8-15 on the basics of programming, data structures, algorithms, and Web Development. It's been an awesome experience getting to share my knowledge and watch the kids get excited about coding. As someone who's always striving to level up my skills, I've also been interning at a few different programs and start-ups to dive deeper into real-world projects. I'm constantly on the lookout for fresh opportunities in the tech sphere where I can keep growing and contributing my skills.
 
-Hey, I'm Noah! I'm currently a student at CSULB studying Computer Science. I love to build, teach, and learn anything related to tech. For the past year, I have been working as a coding coach teaching kids aged 8-12 on the basics of programming. As a coach, I focus on developing projects that I have made into small coding lessons and ensuring each child progresses in their programming. As someone who is constantly looking to expand my skills and knowledge, I'm always open to new opportunities to grow and learn in the tech sphere.
-
-* 🌍  I'm based in California
+* 👨🏻‍💻 Building RateMyMajor
 * 🖥️  See my terminal portfolio at [boatnoah.com](http://boatnoah.com/)
 * ✉️  You can contact me at [noahkimCS@gmail.com](mailto:noahkimCS@gmail.com)
 * 🚀  I'm currently enrolled in CodePath WEB102
 * 🧠  I'm learning Full-Stack Development
-* 👨🏻‍💻 Building RateMyMajor
+
 
 ### Skills
 
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,cpp,html,css,react,tailwind)](https://skillicons.dev)
 
+### Tools
+
+[![Tools](https://skillicons.dev/icons?i=neovim,vscode,obsidian)](https://skillicons.dev)
 
 ### Socials
-<p align="left">
-  <a href="https://discord.com/users/boat.py" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="Discord" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/noah-kim-cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" height="32" />
-  </a>
-</p>
+[![Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/noah-kim-cs/)
+
+
 
 
