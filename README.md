@@ -9,6 +9,7 @@ Hey, I'm Noah! I'm currently a student at CSULB studying Computer Science. I lov
 * ✉️  You can contact me at [noahkimCS@gmail.com](mailto:noahkimCS@gmail.com)
 * 🚀  I'm currently enrolled in CodePath WEB102
 * 🧠  I'm learning Full-Stack Development
+* 👨🏻‍💻 Building RateMyMajor
 
 ### Skills
 
