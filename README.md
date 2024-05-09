@@ -6,7 +6,7 @@ Hey, I'm Noah! ![](https://user-images.githubusercontent.com/18350557/176309783-
       self.age = 20
       self.based_in = "California"
       self.current_study = "Computer Science"
-      self.hobbies = ["Coding!", "Video Game", "Table Tennis"]
+      self.hobbies = ["Coding!", "Video Games", "Table Tennis"]
 ```
 
 ## 👨🏻‍💻 About me
