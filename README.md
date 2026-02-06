@@ -25,4 +25,4 @@ Outside of work, I love playing table tennis, make daily [youtube videos](https:
 [![Socials](https://skillicons.dev/icons?i=gmail)](mailto:noahkimcs@gmail.com)
 
 ## More
-* 🖥️  Checkout my terminal portfolio at [boatnoah.com](https://www.boatnoah.com/) 
+* 🖥️  Checkout my portfolio at [boatnoah.com](https://www.boatnoah.com/) 
