@@ -19,9 +19,6 @@ Outside of work, I love playing table tennis, make daily [youtube videos](https:
 
 [![My Skills](https://skillicons.dev/icons?i=py,go,js,ts,cpp,html,css,react,nodejs,tailwind)](https://skillicons.dev)
 
-### Tools
-
-[![Tools](https://skillicons.dev/icons?i=neovim,bash,obsidian,apple)](https://skillicons.dev)
 
 ### Socials
 [![Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/noah-kim-cs/)
