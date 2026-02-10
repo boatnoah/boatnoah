@@ -32,4 +32,4 @@ Let's connect :)
 
 ## More
 * 🖥️  Checkout my portfolio at [boatnoah.com](https://www.boatnoah.com/)
-* 👨🏻‍💻 Checkout my terminal portfolio at [terminal.boatnoah.com](https://www.terminal.boatnoah.com/) 
+* 👨🏻‍💻 Checkout my terminal portfolio at [terminal.boatnoah.com](https://terminal.boatnoah.com/) 
