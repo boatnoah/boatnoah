@@ -11,7 +11,7 @@ Hi, I'm Noah! ![](https://user-images.githubusercontent.com/18350557/176309783-0
 
 ## 👨🏻‍💻 About Me
 
-I have a great interest in backend engineering and distributed systems.
+I have a great interest in backend engineering.
 
 CS senior at CSULB. Previously interned [@Walmart Global Tech](https://github.com/walmartlabs).
 
