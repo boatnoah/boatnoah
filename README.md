@@ -11,13 +11,13 @@ Hi, I'm Noah! ![](https://user-images.githubusercontent.com/18350557/176309783-0
 
 ## 👨🏻‍💻 About Me
 
-I have a great interest in backend engineering.
+- I have a great interest in backend engineering.
 
-CS senior at CSULB. Previously interned [@Walmart](https://github.com/walmartlabs).
+- CS senior at CSULB. Previously interned [@Walmart](https://github.com/walmartlabs).
 
-Outside of work, I love playing table tennis, making daily [youtube videos](https://www.youtube.com/@boatnoah), and spending hours configuring my Neovim setup.
+- Outside of work, I love playing table tennis, making daily [youtube videos](https://www.youtube.com/@boatnoah), and spending hours configuring my Neovim setup.
 
-Let's connect :)
+- Let's connect :)
 
 
 
