@@ -28,7 +28,6 @@ Let's connect :)
 
 ### Socials
 [![Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/noah-kim-cs/)
-[![Socials](https://skillicons.dev/icons?i=gmail)](mailto:noahkimcs@gmail.com)
 
 ## More
 * 🖥️  Checkout my portfolio at [boatnoah.com](https://www.boatnoah.com/)
