@@ -23,7 +23,7 @@ Let's connect :)
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,go,ts,cpp,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,ts,js,java)](https://skillicons.dev)
 
 
 ### Socials
