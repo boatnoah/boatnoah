@@ -34,15 +34,6 @@ func NewNoah() *Noah {
 - Let's connect :)
 
 
-
-### Skills
-
-[![My Skills](https://skillicons.dev/icons?i=py,go,ts,js,java)](https://skillicons.dev)
-
-
-### Socials
-[![Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/noah-kim-cs/)
-
 ## More
 * 🖥️  Checkout my portfolio at [boatnoah.com](https://www.boatnoah.com/)
 * 👨🏻‍💻 Checkout my terminal portfolio at [terminal.boatnoah.com](https://terminal.boatnoah.com/) 
