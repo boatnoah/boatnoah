@@ -4,5 +4,5 @@ hi im noah ![](https://user-images.githubusercontent.com/18350557/176309783-0785
 im a software engineer at walmart
 
 
-* 🖥️ Checkout my portfolio at [boatnoah.com](https://www.boatnoah.com/)
-* 👨🏻‍💻 Checkout my terminal portfolio at [terminal.boatnoah.com](https://terminal.boatnoah.com/) 
+* 🖥️ [boatnoah.com](https://www.boatnoah.com/)
+* 👨🏻‍💻 [terminal.boatnoah.com](https://terminal.boatnoah.com/) 
